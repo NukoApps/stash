@@ -4,7 +4,7 @@
 
 X(Twitter)のタイムラインから写真・動画だけを効率よく閲覧・保存できる、個人開発のAndroidアプリです。
 
-詳しい紹介・スクリーンショットは公式ページをご覧ください: **https://wildheit.github.io/nukostash/**
+詳しい紹介・スクリーンショットは公式ページをご覧ください: *https://nukoapps.fyi/nukostash/*
 
 ## ⚠️ 重要: 非公式・野良アプリです
 
