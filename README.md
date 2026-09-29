@@ -19,7 +19,7 @@ Please only use this app if you agree to the above, at your own risk.
 
 ## Download
 
-Download the latest `nukostash-vX.Y.Z.apk` from [Releases](https://github.com/wildheit/stash/releases).
+Download the latest `stash-vX.Y.Z.apk` from [Releases](https://github.com/NukoApps/stash/releases).
 
 ## Privacy
 

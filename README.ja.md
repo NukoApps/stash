@@ -19,7 +19,7 @@ X(Twitter)のタイムラインから写真・動画だけを効率よく閲覧�
 
 ## ダウンロード
 
-[Releases](https://github.com/wildheit/stash/releases) から最新の `nukostash-vX.Y.Z.apk` をダウンロードしてください。
+[Releases](https://github.com/NukoApps/stash/releases) から最新の `stash-vX.Y.Z.apk` をダウンロードしてください。
 
 ## プライバシー
 
