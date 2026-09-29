@@ -4,7 +4,7 @@
 
 An Android app that makes it easy to browse and save just the photos and videos from your X (Twitter) timeline, built by an independent developer.
 
-See the official page for more details and screenshots: **https://wildheit.github.io/nukostash/**
+See the official page for more details and screenshots: **https://nukoapps.fyi/nukostash/**
 
 ## ⚠️ Important: unofficial, sideloaded app
 
